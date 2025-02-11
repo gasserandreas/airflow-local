@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS demo_table (
+    id BIGSERIAL PRIMARY KEY,
+    date VARCHAR NOT NULL
+);
