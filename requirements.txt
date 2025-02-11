@@ -1,4 +1,6 @@
+# airflow packages
+apache-airflow-providers-postgres
+
+# standard Python packages
 pandas
 numpy
-SQLExecuteQueryOperator
-DAG
